@@ -1,3 +1,4 @@
+HEAD
 # Spotify Song Analysis
 
 ## 📊 Project Overview
@@ -36,3 +37,7 @@ The dataset includes features such as:
 
 ## 📎 Files
 - `Spotify_Analysis.ipynb` — main analysis notebook
+
+# Spotify_Analysis
+Data analysis project exploring Spotify song streams.
+3295191d39e5bb875afd544604a0a27c9d0e9fb0
